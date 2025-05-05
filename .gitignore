@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+model/*.h5
+model/*.tflite
